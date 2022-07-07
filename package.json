@@ -51,6 +51,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "@zarconontol/enzyme-adapter-react-18": "^0.7.3",
     "braintree-web": "^3.76.2"
   }
 }

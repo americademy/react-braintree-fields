@@ -2,9 +2,6 @@
 
 set -e
 
-script/lint
-
-script/test
 
 $(npm bin)/rollup -c
 
